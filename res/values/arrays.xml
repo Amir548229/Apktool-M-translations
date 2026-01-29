@@ -652,6 +652,8 @@
 		<item>Color &lt;-> Smali</item>
 		<item>Color &lt;-> Decimal</item>
 		<item>Color &lt;-> A,R,G,B</item>
+        <item>Date &lt;-> Milliseconds</item>
+		<item>Date &lt;-> Hex</item>
 	</string-array>
 	<string-array name="installLocation">
 		<item>Not set</item>
@@ -694,6 +696,7 @@
 		<item>עברית</item>
 		<item>Magyar</item>
         <item>O\'zbek tili</item>
+        <item>日本語</item>
 	</string-array>
 	<string-array name="values_lang">
 		<item>ru</item>
@@ -722,6 +725,7 @@
 		<item>he</item>
 		<item>hu</item>
         <item>uz</item>
+        <item>ja</item>
 	</string-array>
 	<string-array name="date_variants">
 		<item>yyyy/MM/dd HH:mm</item>
